@@ -8,7 +8,7 @@ class MyTheme {
       appBarTheme: AppBarTheme(
           color: Colors.white,
           elevation: 0.0,
-          iconTheme: IconThemeData(color: Colors.amber),
+          iconTheme: IconThemeData(color: Colors.black),
           titleTextStyle: TextStyle(color: Colors.black, fontSize: 20)));
 
   static ThemeData darkTheme(BuildContext context) =>
