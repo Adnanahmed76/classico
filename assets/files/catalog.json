@@ -1,0 +1,36 @@
+{ 
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 79.000,
+            "color": "#33505a",
+            "image": "https://mobilemall.pk/public_html/images/product/product_1603971843iphone-12-pro-max-gold-price-in-pakistan.png"
+        },
+        {
+            "id": 2,
+            "name": "hp laptop",
+            "desc": "hp 12th generation 8 Gb Ram ",
+            "price": 43.000,
+            "color": "#33505a",
+            "image": "https://media.s-bol.com/49VgzLM1gvwg/550x419.jpg"
+        },
+        {
+            "id": 3,
+            "name": "dell laptop",
+            "desc": "dell laptop 11th generation and 8 Gb Ram",
+            "price": 40.000,
+            "color": "#33505a",
+            "image": "https://static.toiimg.com/thumb/resizemode-4,msid-72207442,width-1200,height-900/72207442.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Samsung Galaxy Edition",
+            "desc": "Samsung Mobile in 4 Gb Ram ",
+            "price": 23.000,
+            "color": "#33505a",
+            "image": "https://i.guim.co.uk/img/media/460229e455cd38808a11b1d0ebe866fcfd5f06ae/373_437_4638_2783/master/4638.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=a738f3c6316aaa69b8ffffbd56933c78"
+        }
+    ]
+}
