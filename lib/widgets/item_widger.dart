@@ -1,4 +1,3 @@
-
 import 'package:classico/models/catalog.dart';
 import 'package:flutter/material.dart';
 
@@ -19,7 +18,7 @@ class ItemWidget extends StatelessWidget {
         title: Text(item.name),
         subtitle: Text(item.desc),
         trailing: Text(
-          "\Buy  ${item.price}",
+          "\$ ${item.price}",
           textScaleFactor: 1.5,
           style:
               TextStyle(color: Colors.deepPurple, fontWeight: FontWeight.bold),

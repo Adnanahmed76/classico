@@ -1,4 +1,4 @@
-{ 
+{
     "products": [
         {
             "id": 1,
@@ -14,7 +14,7 @@
             "desc": "hp 12th generation 8 Gb Ram ",
             "price": 43.000,
             "color": "#33505a",
-            "image": "https://media.s-bol.com/49VgzLM1gvwg/550x419.jpg"
+            "image": "https://m.media-amazon.com/images/I/811aBK9bUFL.jpg"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "desc": "dell laptop 11th generation and 8 Gb Ram",
             "price": 40.000,
             "color": "#33505a",
-            "image": "https://static.toiimg.com/thumb/resizemode-4,msid-72207442,width-1200,height-900/72207442.jpg"
+            "image": "https://media.croma.com/image/upload/v1685000371/Croma%20Assets/Computers%20Peripherals/Laptop/Images/264017_peg33l.png"
         },
         {
             "id": 4,
@@ -30,7 +30,47 @@
             "desc": "Samsung Mobile in 4 Gb Ram ",
             "price": 23.000,
             "color": "#33505a",
-            "image": "https://i.guim.co.uk/img/media/460229e455cd38808a11b1d0ebe866fcfd5f06ae/373_437_4638_2783/master/4638.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=a738f3c6316aaa69b8ffffbd56933c78"
+            "image": "https://m.media-amazon.com/images/I/71pNKw8bD4L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Google Pixel 6 pro 5g",
+            "desc": "Google Pixel 6 Pro 5G 12 Gb Ram 128Gb storage",
+            "price": 23.000,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/71FpXTBHDnL.jpg"
+        },
+        {
+            "id": 6,
+            "name": "IPhone 14",
+            "desc": "IPhone14 5G 12 Gb Ram 128Gb storage",
+            "price": 92.000,
+            "color": "#33505a",
+            "image": "https://static.vecteezy.com/system/resources/previews/011/765/915/original/gold-smartphone-model-apple-iphone-14-pro-new-it-industry-original-wallpaper-mockup-for-web-design-on-a-white-background-free-vector.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Asus Gaming",
+            "desc": "Asus gaming laptop 12 Gb Ram 512 SSD nvidia Graphics card",
+            "price": 92.000,
+            "color": "#33505a",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvngkX99YMNCwAltFEHJxpMkyzZG6yWH2iYR_BnjJyeeaA7Vc4gFpAYmV76BN3B57IJEA&usqp=CAU"
+        },
+        {
+            "id": 8,
+            "name": "Play Station 5",
+            "desc": "Play Station 5 12 Gb Ram 512 SSD nvidia Graphics card",
+            "price": 75.00,
+            "color": "#33505a",
+            "image": "https://5.imimg.com/data5/SELLER/Default/2022/4/GD/JW/ER/151296604/new-ps5-console-wholesales-price-for-ps5-pro-playstation-5-pro-1tb-video-game-consoles.jpeg"
+        },
+        {
+            "id": 9,
+            "name": "Apple Watch",
+            "desc": "Apple Watch fully waterproof and show steo",
+            "price": 92.000,
+            "color": "#33505a",
+            "image": "https://images-cdn.ubuy.co.in/636622719bfeb40c0c0a7f97-apple-watch-se-1st-gen-gps-44mm.jpg"
         }
     ]
 }
