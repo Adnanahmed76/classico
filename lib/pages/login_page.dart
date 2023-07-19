@@ -36,7 +36,6 @@ class _LoginPageState extends State<LoginPage> {
     return Material(
       color: Colors.white,
       child: SingleChildScrollView(
-        
         child: Form(
           key: _formkey,
           child: Column(
@@ -60,7 +59,9 @@ class _LoginPageState extends State<LoginPage> {
                     vertical: 20.0, horizontal: 32.0),
                 child: Column(
                   children: [
+                    
                     TextFormField(
+                      
                       decoration: InputDecoration(
                           hintText: "Enter Username", labelText: "Username"),
                       validator: (value) {
